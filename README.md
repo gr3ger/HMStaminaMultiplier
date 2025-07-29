@@ -1,5 +1,6 @@
-﻿## Harvest Moon: The Winds of Anthos
-A MelonLoader mod to adjust stamina consumption in the game.
+﻿## HMStaminaMultiplier
+
+A MelonLoader mod for Harvest Moon: The Winds of Anthos to adjust stamina consumption in the game.
 
 ### Installation
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) (0.7.1 was used when developing the mod)
